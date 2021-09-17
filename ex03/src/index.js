@@ -1,7 +1,7 @@
 function main() {
-    // only change code below this line
+    // Only change code below this line
     var myString = "FirstLine\n\t\\SecondLine\nThirdLine";
-    // only change code above this line
+    // Only change code above this line
     return myString;
 }
 

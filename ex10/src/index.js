@@ -1,8 +1,8 @@
 function main() {
-    // only change code below this line
+    // Only change code below this line
     var myString = "Jello World";
     myString = "Hello World";
-    // only change code above this line
+    // Only change code above this line
     return myString;
 }
 
